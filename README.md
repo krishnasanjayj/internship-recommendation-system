@@ -1,6 +1,7 @@
 Internship Recommendation SystemA Machine Learning-based platform designed to bridge the gap between students and career opportunities by matching candidate profiles with relevant internship roles using Natural Language Processing (NLP).
 🚀 Overview
-  This project implements a recommendation engine that analyzes user skills and candidate data to suggest the best-fitting internships. It utilizes a trained Scikit-Learn model and is deployed via a Python web interface.  🛠️ Tech StackLanguage: Python  Machine Learning: Scikit-Learn (TF-IDF, Label Encoding, Feature Scaling)  Data Handling: Pandas, NumPy, Pickle  Deployment: Flask / Streamlit (via app.py)  
+  This project implements a recommendation engine that analyzes user skills and candidate data to suggest the best-fitting internships. It utilizes a trained Scikit-Learn model and is deployed via a Python web interface. 
+🛠️ Tech StackLanguage: Python  Machine Learning: Scikit-Learn (TF-IDF, Label Encoding, Feature Scaling)  Data Handling: Pandas, NumPy, Pickle  Deployment: Flask / Streamlit (via app.py)  
 📂 Project Structureapp.py: 
   The main entry point for the web application.  
   data/: Contains the raw and processed datasets (company.csv, candidate_profile_m...). 
